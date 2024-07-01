@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "228916444389",
+    "firebase_url": "https://appgobierno-c3e76-default-rtdb.firebaseio.com",
+    "project_id": "appgobierno-c3e76",
+    "storage_bucket": "appgobierno-c3e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228916444389:android:70bef0e38691a9cf35a80c",
+        "android_client_info": {
+          "package_name": "com.example.directorio_grullo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDt2dVU4xFaH3DqNECOQGhcZP9j5hjtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228916444389:android:a6455d7be04b71f235a80c",
+        "android_client_info": {
+          "package_name": "com.example.directorio_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDt2dVU4xFaH3DqNECOQGhcZP9j5hjtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228916444389:android:3e78b1e3094b4f1e35a80c",
+        "android_client_info": {
+          "package_name": "com.example.el_grullo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDt2dVU4xFaH3DqNECOQGhcZP9j5hjtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228916444389:android:39e6baab32fc9e9435a80c",
+        "android_client_info": {
+          "package_name": "com.example.favorito_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDt2dVU4xFaH3DqNECOQGhcZP9j5hjtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
